@@ -1,3 +1,5 @@
 Project OMG Documentation
 --------------------------
 This file contains important details about Project OMG.
+
+Updated documentation: feature workflow and guidelines.
