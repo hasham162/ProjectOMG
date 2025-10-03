@@ -1,0 +1,3 @@
+Project OMG Documentation
+--------------------------
+This file contains important details about Project OMG.
